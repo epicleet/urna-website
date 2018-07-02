@@ -79,4 +79,5 @@ Nossa posição
 Defendemos que o modelo atual de votação eletrônica adotado no Brasil seja gradualmente transicionado para um sistema que produza registro físico do voto conferível pelo eleitor, seja nos moldes propostos pelo [artigo publicado pelo TSE](https://sbseg2017.redes.unb.br/wp-content/uploads/2017/04/20171109_ANAIS_SBSEG_2017_FINAL_E-BOOK.pdf#page=692) ou por algum dos projetos alternativos que vem sendo discutidos pela comunidade acadêmica. O que não podemos é depositar fé que o sistema atual seja suficientemente seguro, dadas as evidências técnicas em contrário, e adiar indefinidamente uma mudança, como vem acontecendo [desde 2009](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12034.htm), em uma batalha infindável entre o Legislativo e o Judiciário.
 
 Grupo 1 participante nos Testes Públicos de Segurança 2017
+
 [@dfaranha](https://twitter.com/dfaranha), [@pedroysb](https://twitter.com/pedroysb), [@tncardoso](https://twitter.com/tncardoso), [@caioluders](https://twitter.com/caioluders), [@thotypous](https://twitter.com/thotypous)
