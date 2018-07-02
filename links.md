@@ -5,7 +5,7 @@ permalink: /links/
 ---
 
 # Relatórios
-* [The Return of Software Vulnerabilities in the Brazilian Voting_Machine](https://www.researchgate.net/publication/323470546_The_Return_of_Software_Vulnerabilities_in_the_Brazilian_Voting_Machine)
+* [The Return of Software Vulnerabilities in the Brazilian Voting Machine](https://doi.org/10.13140/RG.2.2.16240.97287)
 <br/><br/>
 # Códigos
 * [Repositório de códigos do ataque do TPS 2017](https://github.com/epicleet/tps2017)
