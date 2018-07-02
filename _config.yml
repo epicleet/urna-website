@@ -4,7 +4,6 @@ title: Urna
 host: 0.0.0.0
 port: 4000
 url: https://urnaeletronica.info/
-# baseurl: "/"
 baseurl: null
 description: "Informações sobre a urna eletrônica"
 
@@ -44,7 +43,7 @@ og_locale: "pt_BR"
 twitter_card: "summary_large_image"
 twitter_site: "@nandomoreirame"
 
-gems: [bourbon, jekyll-paginate]
+gems: [jekyll-paginate]
 
 # navbar pages
 navbar:
