@@ -6,7 +6,7 @@ permalink: /links/
 
 # Relatórios
 
-* [Execução de código arbitrário na urna eletrônica brasileira](https://doi.org/10.13140/RG.2.2.28590.82246)
+* [Execução de código arbitrário na urna eletrônica brasileira](https://www.researchgate.net/publication/326261911_Execucao_de_codigo_arbitrario_na_urna_eletronica_brasileira)
 * [The Return of Software Vulnerabilities in the Brazilian Voting Machine](https://doi.org/10.13140/RG.2.2.16240.97287)
 
 <br />
