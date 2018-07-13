@@ -3,8 +3,8 @@ layout: post
 title: "Carta aberta de resposta à participação do TSE no Nerdcast 626"
 date: 2018-7-1 16:39:18
 comments: true
-description: "A wonderful serenity has taken possession of my entire soul"
-keywords: "welcome, wonderful, jekyll, friend"
+description: "Carta aberta de resposta à participação do TSE no Nerdcast 626"
+keywords: "nerdcast, urna, vulnerabilidades"
 category: welcome
 tags:
 - welcome
