@@ -8,7 +8,7 @@ permalink: /links/
 
 * [Execução de código arbitrário na urna eletrônica brasileira](https://doi.org/10.13140/RG.2.2.28590.82246/1)
 * [The Return of Software Vulnerabilities in the Brazilian Voting Machine](https://doi.org/10.13140/RG.2.2.16240.97287)
-* [Relatório do TPS 2012](https://sites.google.com/site/dfaranha/projects/relatorio-urna.pdf) &mdash; algumas informações permanecem relevantes até hoje, como o compartilhamento de chaves criptográficas entre todas as urnas.
+* [Vulnerabilidades no software da urna eletrônica brasileira (relatório do TPS 2012)](https://sites.google.com/site/dfaranha/projects/relatorio-urna.pdf) &mdash; algumas informações permanecem relevantes até hoje, como o compartilhamento de chaves criptográficas entre todas as urnas.
 <br/><br/>
 
 <br />
