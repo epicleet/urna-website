@@ -3,8 +3,8 @@ layout: post
 title: "Carta aberta de resposta à participação do TSE no Nerdcast 626"
 date: 2018-7-1 16:39:18
 comments: true
-description: "A wonderful serenity has taken possession of my entire soul"
-keywords: "welcome, wonderful, jekyll, friend"
+description: "Carta aberta de resposta à participação do TSE no Nerdcast 626"
+keywords: "nerdcast, urna, vulnerabilidades"
 category: welcome
 tags:
 - welcome
@@ -20,7 +20,7 @@ Outro ponto importante diz respeito à auditoria de código. Se realmente fosse 
 
 Por fim, o modelo de urna utilizado no Brasil foi abandonado por quase todos os países que já o utilizaram. A maioria desses países migraram para equipamentos que permitem a auditoria independente de software pelo uso de um registro físico. Argumentar que o Brasil tem uma grande área e complexidade não é suficiente, uma vez que países como a Índia conseguiram adotar este tipo de tecnologia com sucesso. A transparência e auditabilidade de uma eleição são requisitos (e não características desejáveis) para uma democracia forte e justa.
 
-Encorajamos todos os ouvintes a lerem [nosso relatório](https://doi.org/10.13140/RG.2.2.16240.97287) e o [relatório oficial do TSE](http://www.justicaeleitoral.jus.br/arquivos/relatorio-tecnico-tps-2017-1527192798117) para tirar suas próprias conclusões, lembrando que se trata de um sistema crítico em operação há mais de duas décadas. Terminamos este email com o detalhamento a respeito de cada tópico discutido no Nerdcast 626 e links para o material relevante.
+Encorajamos todos os ouvintes a lerem nosso relatório ([em inglês](https://doi.org/10.13140/RG.2.2.16240.97287) / [em português](https://doi.org/10.13140/RG.2.2.28590.82246/1)) e o [relatório oficial do TSE](http://www.justicaeleitoral.jus.br/arquivos/relatorio-tecnico-tps-2017-1527192798117) para tirar suas próprias conclusões, lembrando que se trata de um sistema crítico em operação há mais de duas décadas. Terminamos este email com o detalhamento a respeito de cada tópico discutido no Nerdcast 626 e links para o material relevante.
 
 Sobre automação das eleições e urnas desconectadas da Internet
 --------------------------------------------------------------
