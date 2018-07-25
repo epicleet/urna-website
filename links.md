@@ -21,8 +21,9 @@ permalink: /links/
 
 # Palestras
 
-* [Seminário: (In)segurança do voto eletrônico no Brasil, 5 anos depois](https://www.youtube.com/watch?v=IHrKjyPhm-4)
+* [Xtreme Security: Executando código arbitrário na urna eletrônica](https://www.youtube.com/watch?v=sbj82-0koas)
 * [(In)segurança do voto eletrônico no Brasil, no Pint of Science](https://www.facebook.com/onovolab/videos/183012755591781)
+* [Seminário: (In)segurança do voto eletrônico no Brasil, 5 anos depois](https://www.youtube.com/watch?v=IHrKjyPhm-4)
 
 <br />
 
