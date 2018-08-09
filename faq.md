@@ -28,7 +28,7 @@ Note, também, que tanto na urna com registro 100% eletrônico como na urna com 
 
 ## O voto impresso faz voltar todos os problemas de fraude que existiam com as cédulas de papel?
 
-**Não**. O voto impresso não é uma cédula tradicional, mas sim uma nova forma de registro digital. A diferença é que ele é impresso em papel em vez de ser gravado em memória eletrônica, e por isso pode ser observado pelo eleitor a olho nu. Como ele é um registro digital, ele pode e deve contar com mecanismos digitais (tais como assinaturas) para evitar fraudes não especializadas, como as que eram comuns antes da introdução da Urna Eletrônica no Brasil.
+**Não**. O voto impresso não é uma cédula tradicional, mas sim uma nova forma de registro digital. A diferença é que ele é impresso em papel em vez de ser gravado somente em memória eletrônica, e por isso pode ser observado pelo eleitor a olho nu. Como ele é um registro digital, ele pode e deve contar com mecanismos digitais (tais como assinaturas) para evitar fraudes não especializadas, como as que eram comuns antes da introdução da Urna Eletrônica no Brasil.
 
 Sabendo disso, [o TSE projetou](https://sbseg2017.redes.unb.br/wp-content/uploads/2017/04/20171109_ANAIS_SBSEG_2017_FINAL_E-BOOK.pdf#page=692) cuidadosamente um modelo de voto impresso que torna detectáveis diversos tipos de fraude não especializada, tais como substituir, acrescentar ou subtrair papéis de dentro da urna.
 
@@ -54,7 +54,7 @@ Outros tipos de ataque também são possíveis a partir do acesso físico à urn
 
 ## O código da urna é inspecionado por pessoas qualificadas. Isso é suficiente para identificar falhas de segurança?
 
-**Não**. Infelizmente não é possível identificar bugs e falhas de segurança apenas com uma inspeção do código. Se isso fosse verdade, empresas no mundo inteiro não gastariam grandes somas em dinheiro testando seu software. Bastaria fazer uma auditoria e teríamos a garantia de um software seguro.
+**Não**. Infelizmente não é possível identificar todos os bugs e falhas de segurança apenas com uma inspeção do código. Se isso fosse verdade, empresas no mundo inteiro não gastariam grandes somas em dinheiro testando seus softwares. Bastaria fazer uma auditoria e teríamos a garantia de um software seguro.
 
 Esse desafio é agravado pela grande complexidade do software atualmente utilizado na urna. Como construímos programas com cada vez mais dependências externas, é impossível mapear e entender todo o comportamento do sistema. O código da urna eletrônica, por exemplo, contém milhões de linhas de código, o que torna *impossível* declarar o código livre de erros apenas com uma inspeção / auditoria.
 
