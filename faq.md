@@ -92,4 +92,4 @@ Imagine agora o problema inverso: de alguma maneira, você conseguiu inserir o r
 
 *Não exatamente*. Em Serra Leoa, houve uma [iniciativa independente](http://en.rfi.fr/africa/20180315-sierra-leone-tests-blockchain-technology-tallying-election-results) similar ao Você Fiscal e ao Apura Fácil, que coletava os totais de seções eleitorais para conferir a contagem final. Uma das diferenças com relação às iniciativas brasileiras é que eles usavam uma blockchain como uma base de dados pública e imutável para armazenar esses dados. Nós concordamos que esse é um bom uso para a tecnologia de blockchain, afinal os totais de seções eleitorais são dados públicos.
 
-Outra diferença é que Serra Leoa não utiliza votação eletrônica. Os totais de seções eleitorais foram contabilizados a partir da contagem de cédulas tradicionais em papel.
+Outra diferença é que Serra Leoa não utiliza votação eletrônica. Os totais de seções eleitorais foram contabilizados a partir da apuração de cédulas tradicionais em papel.
