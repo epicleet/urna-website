@@ -46,7 +46,7 @@ Continuando no mesmo cenário, a Urna Eletrônica seria um cofre em que o saldo 
 
 ## A Urna Eletrônica é desconectada da internet (como uma torradeira elétrica). Ainda assim é possível hackeá-la?
 
-**Sim**. A Urna Eletrônica é um dispositivo digital similar a um computador comum. Isso significa que é possível, sim, alterar o seu comportamento de forma não prevista. Este é o motivo pelo qual a proteção de um computador depende também de sua segurança física. Datacenters no mundo inteiro investem grandes somas em dinheiro para garantir que o acesso físico aos servidores só será realizado por poucos profissionais de confiança.
+**Sim**. A Urna Eletrônica é um dispositivo digital similar a um computador comum. Isso significa que é possível, sim, alterar o seu comportamento de forma não prevista. Este é o motivo pelo qual a proteção de um computador depende também de sua segurança física. Datacenters no mundo inteiro investem grandes somas em dinheiro para garantir que o acesso físico aos servidores só seja realizado por poucos profissionais de confiança.
 
 O Teste Público de Segurança de 2017 mostrou a possibilidade de um ataque às urnas sem necessidade de acesso à internet. Nesse ataque, o cartão de memória utilizado para instalação da urna foi infectado com um arquivo modificado que alterava o comportamento do software de votação. Nesse caso, o cartão de memória foi utilizado como vetor do ataque, e não a internet. Como cada cartão instala até 50 urnas, o ataque é escalável para impacto não-trivial em uma eleição.
 
