@@ -30,7 +30,7 @@ Note, também, que tanto na urna com registro 100% eletrônico como na urna com 
 
 **Não**. O voto impresso não é uma cédula tradicional, mas sim uma nova forma de registro digital. A diferença é que ele é impresso em papel em vez de ser gravado somente em memória eletrônica, e por isso pode ser observado pelo eleitor a olho nu. Como ele é um registro digital, ele pode e deve contar com mecanismos digitais (tais como assinaturas) para evitar fraudes não especializadas, como as que eram comuns antes da introdução da Urna Eletrônica no Brasil.
 
-Sabendo disso, [o TSE projetou](https://sbseg2017.redes.unb.br/wp-content/uploads/2017/04/20171109_ANAIS_SBSEG_2017_FINAL_E-BOOK.pdf#page=692) cuidadosamente um modelo de voto impresso que torna detectáveis diversos tipos de fraude não especializada, tais como substituir, acrescentar ou subtrair papéis de dentro da urna.
+Já em sua forma atual, o modelo de voto impresso [prototipado pelo TSE](https://sbseg2017.redes.unb.br/wp-content/uploads/2017/04/20171109_ANAIS_SBSEG_2017_FINAL_E-BOOK.pdf#page=692) torna detectáveis alguns tipos de fraude não especializada, como trazer de fora da seção papéis prontos com a numeração de algum candidato. Com pequenas melhorias, como a introdução de um componente não determinístico na assinatura digital, ele tornaria também detectável a fraude de substituir, acrescentar ou subtrair papéis de dentro da urna após o término da seção.
 
 ## Se o próprio TSE projetou um modelo de voto impresso, por que eles são contra a adoção da medida?
 
