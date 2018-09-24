@@ -26,11 +26,11 @@ title: Home
         <p><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>  — <strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> — <span> {{ post.content | strip_html | truncatewords: 40 }}</span> <a class="post-link readmore" href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
       </article>
     {% endfor %}
-  </div>
 
     <h2>Quem somos</h2>
     <p>Diego F. Aranha, Pedro Y. S. Barbosa, Thiago N. C. Cardoso, Caio Lüders, Paulo Matias, integrantes do Grupo 1 no TPS e profissionais de Segurança da Informação.
     <br />
+  </div>
 
   <div class="container">
     {% include pagination.html %}
