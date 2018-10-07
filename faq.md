@@ -8,7 +8,7 @@ permalink: /faq/
 
 Hoje, a urna brasileira só registra os votos em memória eletrônica. Isso gera vários problemas: essas memórias podem ser regravadas, o eleitor não enxerga o que é escrito nelas e, mesmo se enxergasse, seria necessário conhecimento técnico para entender.
 
-O voto impresso é uma proposta de, além de usar a memória eletrônica, escrever os votos também em papel. Não é necessário conhecimento técnico para ler um número impresso em um papel. Por isso, essa forma de registro permite que todos os eleitores, mesmo pessoas leigas em tecnologia, possam participar da auditoria do processo eleitoral.
+O voto impresso é uma proposta de, além de usar a memória eletrônica, registrar os votos também em papel. Não é necessário conhecimento técnico para ler um número impresso em um papel. Por isso, essa forma de registro permite que todos os eleitores, mesmo pessoas leigas em tecnologia, possam participar da auditoria do processo eleitoral.
 
 ## Voto impresso é uma falha de segurança no processo eleitoral? Ele viola o sigilo do voto?
 
