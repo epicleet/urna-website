@@ -22,7 +22,6 @@ permalink: /links/
 
 * [DEFCON 26 Voting Village: Return of software vulns in Brazilian voting machines](https://www.youtube.com/watch?v=TkoCnyhmorg)
 * [Caipyra 2018: Hackeando a urna eletrônica brasileira com o Python](https://www.youtube.com/watch?v=MeMZDCecuIA)
-
 * [Xtreme Security: Executando código arbitrário na urna eletrônica](https://www.youtube.com/watch?v=sbj82-0koas)
 * [(In)segurança do voto eletrônico no Brasil, no Pint of Science](https://www.facebook.com/onovolab/videos/183012755591781)
 * [Seminário: (In)segurança do voto eletrônico no Brasil, 5 anos depois](https://www.youtube.com/watch?v=IHrKjyPhm-4)
