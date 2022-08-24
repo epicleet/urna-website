@@ -4,6 +4,8 @@ title: Perguntas frequentes
 permalink: /faq/
 ---
 
+Esta página responde perguntas frequentes sobre possíveis formas de melhorar o nosso sistema eleitoral.
+
 ## O que é o voto impresso? Para que ele serve?
 
 Hoje, a urna brasileira só registra os votos em memória eletrônica. Isso gera vários problemas: essas memórias podem ser regravadas, o eleitor não enxerga o que é escrito nelas e, mesmo se enxergasse, seria necessário conhecimento técnico para entender.
@@ -32,9 +34,15 @@ Note, também, que tanto na urna com registro 100% eletrônico como na urna com 
 
 Já em sua forma atual, o modelo de voto impresso [prototipado pelo TSE](https://sbseg2017.redes.unb.br/wp-content/uploads/2017/04/20171109_ANAIS_SBSEG_2017_FINAL_E-BOOK.pdf#page=692) torna detectáveis alguns tipos de fraude não especializada, como trazer de fora da seção papéis prontos com a numeração de algum candidato. Com pequenas melhorias, como a introdução de um componente não determinístico na assinatura digital, ele tornaria também detectável a fraude de substituir, acrescentar ou subtrair papéis de dentro da urna após o término da seção.
 
+## É necessário contar todos os votos manualmente?
+
+**Não**. A contagem pode e deve ser auxiliada por *scanners* ou equipamentos similares. O trabalho de um *scanner* pode ser facilmente observado por leigos para aferir que ele está funcionando corretamente, bem como pode ser gravado em vídeo. Por isso, é bastante claro que o auxílio de tecnologia **não prejudica** a compreensão do processo por leigos.
+
+Também não é necessário recontar todos os votos do registro físico. A imensa maioria dos pesquisadores defende o uso de uma técnica chamada [RLA](https://doi.org/10.1109/MSP.2012.56), em que se realiza um cálculo estatístico para determinar quantos votos precisam ser recontados para comprovar a contagem eletrônica inicial com uma margem de erro segura. Um [artigo recente](https://cacm.acm.org/magazines/2021/6/252836-the-risks-of-election-believability-or-lack-thereof/fulltext) criticou o uso de RLA por que, apesar de seguro, ele pode ser difícil de entender para eleitores sem conhecimento de matemática. No entanto, permanece o consenso da maioria dos pesquisadores que o RLA é uma abordagem melhor que uma recontagem de todos os votos. Uma das grandes vantagens do RLA é que ele não faz saltar aos olhos pequenas divergências entre a contagem inicial e a contagem verificada, por exemplo a subtração de um ou dois votos do registro físico que nem chegariam a alterar o resultado final. Desta forma, o RLA evita atritos desnecessários entre cidadãos e autoridades eleitorais nas auditorias pós-eleição.
+
 ## Se o próprio TSE projetou um modelo de voto impresso, por que eles são contra a adoção da medida?
 
-Não conhecemos as políticas internas do TSE, então qualquer hipótese que levantássemos seria pura especulação. O fato é que, como a medida foi suspensa pelo Judiciário, o TSE vê como papel institucional defender incondicionalmente o sistema atual. Realmente, é importante que os eleitores confiem no processo eleitoral para que uma democracia funcione. Mas vemos como uma inversão de valores confiar cegamente no sistema a ponto de impedir a evolução para soluções mais seguras.
+Não conhecemos as políticas internas do TSE, então qualquer hipótese que levantássemos seria pura especulação. O fato é que, como a medida foi suspensa pelo Judiciário, o TSE vê como papel institucional defender incondicionalmente o sistema atual. Realmente, é importante que os eleitores confiem no processo eleitoral para que uma democracia funcione e, de fato, **o processo atual (2022) não é escancarado o suficiente para nos preocuparmos com uma suposta fraude tecnológica iminente**. Mas vemos como uma inversão de valores confiar cegamente no sistema a ponto de impedir a evolução, no longo prazo, para soluções mais seguras e transparentes.
 
 ## A Urna Eletrônica armazena o Registro Digital do Voto (RDV). Ele já não permite recontagem de votos?
 
@@ -105,3 +113,7 @@ Recentemente, o GRITA! propôs o [VAIDE](https://archive.is/xpyKr), um dispositi
 <img src="{{ "/assets/images/sela.jpg" | prepend: site.baseurl }}" alt="Protótipo do SELA">
 
 Apesar de ter parecido uma boa ideia há mais de 20 anos atrás, o [problema do SELA](https://youtu.be/wGS2nGDjHx0?t=575) é que ainda seria necessário confiar que o software do dispositivo externo não possui erros de programação nem vulnerabilidades, pois não é possível observar diretamente a olho nu os dados que estão sendo gravados em memória. Já o VAIDE, por mais que seja uma proposta mais recente, apresenta ainda mais problemas que o SELA, pois não é possível saber ao menos se o dispositivo externo recebeu pela USB o mesmo voto apresentado na tela da urna. Por exemplo, o ataque que demonstramos no TPS 2017, sem precisar de nenhuma modificação, passaria totalmente despercebido em uma urna com VAIDE.
+
+## O uso de um sistema verificável fim a fim resolve o problema?
+
+Recentemente, o TSE [anunciou](https://www.tse.jus.br/comunicacao/noticias/2022/Maio/equipes-do-tse-e-da-usp-trabalham-na-inovacao-do-sistema-eletronico-de-votacao) que está trabalhando na implementação do método fim a fim em parceria com pesquisadores da academia. Trata-se de uma iniciativa louvável que, se bem implementada, tem grande potencial de melhorar o nosso processo eleitoral e torná-lo finalmente [independente de software](https://people.csail.mit.edu/rivest/RivestWack-OnTheNotionOfSoftwareIndependenceInVotingSystems.pdf). A verificação fim a fim pode ou não ser acoplada a um registro físico. Em países que adotam votações pela internet, como a Estônia, não é utilizado registro físico pois, como a votação não é presencial, isso não faria sentido. Já em votações presenciais, a recomendação de pesquisadores é que, além de se emitir um código de rastreamento para verificação fim a fim, seja gerado um registro físico às claras, para tornar o processo eleitoral mais compreensível para pessoas leigas, que não entendem a matemática da verificação fim a fim. Essa preocupação é levada em conta pelos protótipos de sistemas verificáveis fim a fim destinados ao uso em votações presenciais existentes na literatura, como o [Wombat](https://wombat.factcenter.org).
