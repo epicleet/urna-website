@@ -96,6 +96,8 @@ Com votação, a situação se agrava, pois a transação na blockchain precisa 
 
 Imagine agora o problema inverso: de alguma maneira, você conseguiu inserir o registro corretamente e de forma sigilosa mas, depois de algum tempo, alguém descobre como quebrar o método que foi utilizado para garantir esse sigilo. Como a informação está registrada para sempre na blockchain, agora você nunca mais pode alegar que não votou naquele candidato.
 
+Um tratamento muito mais detalhado sobre as limitações de blockchain para realizar eleições via Internet pode ser encontrado [aqui](https://educatedguesswork.org/posts/voting-blockchain/).
+
 ## Mas já não há países utilizando blockchain em eleições?
 
 *Não exatamente*. Em Serra Leoa, houve uma [iniciativa independente](http://en.rfi.fr/africa/20180315-sierra-leone-tests-blockchain-technology-tallying-election-results) similar ao Você Fiscal e ao Apura Fácil, que coletava os totais de seções eleitorais para conferir a contagem final. Uma das diferenças com relação às iniciativas brasileiras é que eles usavam uma blockchain como uma base de dados pública e imutável para armazenar esses dados. Nós concordamos que esse é um bom uso para a tecnologia de blockchain, afinal os totais de seções eleitorais são dados públicos.
