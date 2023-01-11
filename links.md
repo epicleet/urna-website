@@ -40,6 +40,6 @@ permalink: /links/
 * [Vida de Programador - Pedro Barbosa](https://www.youtube.com/watch?v=rdxtAUPDC_w)
 * [Entrevista Transamérica - Diego Aranha](https://www.facebook.com/transamericabsb/videos/1785682808191000)
 * [Entrevista Olhar Digital](https://olhardigital.com.br/video/avancos-por-tras-da-urnas-eletronica-ainda-nao-garantem-100-de-seguranca/74400)
-* [Entrevista Jornal EPTV - Paulo Matias](http://g1.globo.com/sp/sao-carlos-regiao/jornal-da-eptv/videos/t/edicoes/v/professor-da-ufscar-fala-sobre-participacao-em-testes-com-urnas-eletronicas/6361383/)
+* [Entrevista Jornal EPTV - Paulo Matias](https://globoplay.globo.com/v/6361383/)
 * [Entre Aspas - A polêmica da segurança da urna eletrônica](https://www.youtube.com/watch?v=twSQAp4n2lA)
 * [The Noite - Entrevista com Diego Aranha](https://www.youtube.com/watch?v=xATaNCsre9Q)
